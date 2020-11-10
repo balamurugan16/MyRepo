@@ -1,6 +1,5 @@
 #Example Repository
-This is my first example repository.
-Hello coders
+#####React To-Do app
+This is my first React app. I am a newbie in this technology. 
 
-This is a second change.
-this is the third change.
+
